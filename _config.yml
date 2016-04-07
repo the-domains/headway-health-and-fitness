@@ -1,0 +1,28 @@
+name: 'Headway Health and Fitness '
+favicon: null
+layout_spectrum: 0.5834536773618311
+typography_spectrum: 0.6899402900598943
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.5289584104903042
+  lightness: 0.08480192208662629
+  saturation: 0.9649636393878609
+  rhythmicContrast: 0.08194551733322442
+purpose: []
