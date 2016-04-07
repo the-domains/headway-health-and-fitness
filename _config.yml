@@ -1,7 +1,7 @@
 name: 'Headway Health and Fitness '
 favicon: null
-layout_spectrum: 0.5834536773618311
-typography_spectrum: 0.6899402900598943
+layout_spectrum: 0.08471
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#027daa'
     - '#022a63'
   brandStrength: 0.5289584104903042
-  lightness: 0.08480192208662629
-  saturation: 0.9649636393878609
+  lightness: 0.6875
+  saturation: 0.8125
   rhythmicContrast: 0.08194551733322442
 purpose: []
